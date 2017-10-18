@@ -14,6 +14,7 @@ import processing.event.KeyEvent;
 import processing.event.MouseEvent;
 
 public class EvolvioColor extends PApplet {
+	//
 	private enum DragMode{
 		NONE,
 		SCREEN,
